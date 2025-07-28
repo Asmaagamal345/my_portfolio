@@ -1,4 +1,3 @@
-# my_portfolio
 # Asmaa Gamal
 
 ## Python Developer | Aspiring Backend Developer
@@ -33,10 +32,9 @@ Currently, I aim to deepen my knowledge in backend development and build a stron
 ---
 
 ## Soft Skills
-- Teamwork
-- Self-learning
-- Adaptability
-- Attention to detail
+- Developed strong communication, teamwork, time management, problem-solving, and negotiation skills through volunteer work in PR and Fundraising.
+- Enhanced self-learning ability and adaptability.
+- Improved interpersonal skills and professional growth mindset.
 
 ---
 
